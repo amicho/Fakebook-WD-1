@@ -1,0 +1,33 @@
+.content1 {
+      color: red;
+      }
+.selfie {
+color: green;
+}
+
+.title {
+color: blue;
+}
+
+.add {
+color: red;
+}
+
+.name{
+color: orange;
+}
+
+body {
+    background-color: lightyellow;
+
+}
+
+.image {
+     border: 3px green dotted;
+  padding: 3px;
+
+}
+
+.image:hover {
+  border: 3px lightyellow;
+}
